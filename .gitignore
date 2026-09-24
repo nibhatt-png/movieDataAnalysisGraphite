@@ -1,0 +1,12 @@
+
+# Raw datasets (large files)
+data/
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
